@@ -13,3 +13,5 @@
  * ##### E-mail management;
  * ##### Social media;
  * ##### Data Visualization. 
+#### *Education:*
+Bachelor of Public Administration *(Russian Presidential Academy of National Economy and Public Administration)*
