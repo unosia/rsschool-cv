@@ -15,3 +15,6 @@
  * ##### Data Visualization. 
 #### *Education:*
 Bachelor of Public Administration *(Russian Presidential Academy of National Economy and Public Administration)*
+#### *Languages:*
+ * English (C1);
+ * German (B1).
