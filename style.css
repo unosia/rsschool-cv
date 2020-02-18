@@ -1,0 +1,32 @@
+body {
+  display: block;
+  max-width: 1024px;
+  margin: auto;
+  background-color: #fff0f5;
+  color: #808080;
+  font-size: large;
+  border: 10px;
+}
+
+img {
+  position: relative;
+  width: 240px;
+  height: 290px;
+  margin: 20px;
+  float: right;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+}
+
+h1 {
+  text-align: center;
+  color: #696969;
+}
+
+h3 {
+  display: block;
+  margin: 10px;
+}
+
+li {
+  margin: 10px;
+}
